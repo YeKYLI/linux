@@ -1,4 +1,4 @@
-# complie busybox and run
+# break start_kernel
 
-# follow write syscall, see what happen in system
+stop the specific location in gdb and vscode
 
